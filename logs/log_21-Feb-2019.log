@@ -1,0 +1,2 @@
+ERROR (2019-02-21 17:06:09):Too few arguments to function CAnuncio::catalogoCategoria(), 1 passed in C:\xampp\htdocs\PHP\AsesorCompras\servicios\sw_anuncio.php on line 102 and exactly 2 expected
+ERROR (2019-02-21 17:06:46):Too few arguments to function CAnuncio::catalogoCategoria(), 1 passed in C:\xampp\htdocs\PHP\AsesorCompras\servicios\sw_anuncio.php on line 102 and exactly 2 expected
