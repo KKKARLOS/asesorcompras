@@ -79,7 +79,7 @@
 			try {
 
 				$email_user = "jc.perdiguerocarlos@gmail.com";
-				$email_password = "asier2004";
+				$email_password = "xxxxxxxx";
 				//$address_to = $to;
 				// para pruebas
 				$address_to = "jc.perdiguerocarlos@gmail.com";
